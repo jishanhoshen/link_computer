@@ -1,0 +1,169 @@
+.ads{
+	margin-top:30px;
+}
+.ads_child{
+	width:31.6%;
+	float:left;
+	margin-left:2.5%;
+}
+.one{
+	margin-left:0;
+}
+.ads_child img{
+	width:100%;
+}
+.latest{
+	margin-top:80px;
+}
+.latest_caption{
+	color:#fff;
+	font-size:25px;
+	font-family: 'Trade Winds', cursive;
+}
+.latest_border{
+	width:100px;
+	height:2px;
+	background:#23ace9;
+	margin-top:10px;
+	margin-bottom:30px;
+}
+.owl-nav{
+	color:#23ace9;
+    font-size:27px;
+    position:absolute;
+    top:-60px;
+    right:0;
+	transition:0.4s;
+}
+.owl-nav:hover{
+	color:#1776a0;
+}
+.owl-prev{
+	margin-right:8px;
+	text-shadow:2px 2px 0 rgba(255,255,255,0.3);
+}
+.owl-next{
+	text-shadow:2px 2px 0 rgba(255,255,255,0.3);
+}
+.latest_product_main{
+	background:#272727;
+	border:1px solid #555;
+	width:95%;
+	height:479px;
+	padding:20px 10px;
+}
+.latest_product_image{
+	height:225px;
+	width:100%;
+}
+.description{
+	margin-top:15px;
+	text-align:left;
+}
+.description_heading{
+	margin:0;
+	color:#cfcfcf;
+	font-family: 'Philosopher', sans-serif;
+	font-size:18px;
+}
+.description_content{
+	margin-top:5px;
+	color:#fff;
+	font-size:13px;
+}
+.description_price{
+	margin-top:12px;
+	color:#22ace9;
+	font-size:20px;
+	font-weight:bold;
+	font-family:calibri;
+}
+.description_price span{
+	color:#bbbbbb;
+	font-size:18px;
+	font-weight:normal;
+}
+.description_vat{
+	font-size:15px;
+	color:#bbbbbb;
+	margin-top:2px;
+}
+.cart_row{
+	margin-top:12px;
+}
+.add_cart{
+	background:transparent;
+	width:116px;
+    color:#fff;
+    border:1px solid #555;
+    text-align:center;
+    height:36px;
+    line-height:36px;
+    font-size:12px;
+	cursor:pointer;
+	font-family:inherit;
+	font-weight:400;
+	transition:0.5s;
+}
+.add_cart:hover{
+	background:#000;
+}
+.like{
+	background:transparent;
+	width:45px;
+    color:#fff;
+    border:1px solid #555;
+    text-align:center;
+    height:36px;
+    line-height:36px;
+    font-size:13px;
+	cursor:pointer;
+	font-family:inherit;
+	font-weight:400;
+	transition:0.5s;
+	margin-left:14px;
+}
+.like:hover{
+	background:#000;
+}
+.compire{
+	background:transparent;
+	width:45px;
+    color:#fff;
+    border:1px solid #555;
+    text-align:center;
+    height:36px;
+    line-height:36px;
+    font-size:13px;
+	cursor:pointer;
+	font-family:inherit;
+	font-weight:400;
+	transition:0.5s;
+	float:right;
+}
+.compire:hover{
+	background:#000;
+}
+
+
+
+
+
+
+
+@media(max-width:700px){
+	.ads_child{
+		width:100%;
+		margin-top:20px;
+		margin-left:0;
+		padding:0px 40px;
+	}
+	.latest_product_main{
+		width:100%;
+		height:550px;
+		padding:20px 70px;
+	}
+	.description{
+		margin-top:80px;
+	}
+}

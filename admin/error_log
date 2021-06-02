@@ -1,0 +1,61 @@
+[17-Dec-2020 01:33:01 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[17-Dec-2020 01:33:04 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[17-Dec-2020 01:33:04 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[17-Dec-2020 01:33:14 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[17-Dec-2020 01:33:15 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[17-Dec-2020 16:47:32 asia/dhaka] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/linkcomp/bbb.linkcomputerbd.com/admin/home_page.php on line 204
+[17-Dec-2020 16:47:32 asia/dhaka] PHP Warning:  imagecreatefromjpeg(): '../img/single_add.jpg' is not a valid JPEG file in /home/linkcomp/bbb.linkcomputerbd.com/admin/home_page.php on line 204
+[17-Dec-2020 16:47:32 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/home_page.php on line 212
+[18-Dec-2020 01:07:27 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:31 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:37 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:38 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:40 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:41 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:42 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:45 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:47 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:48 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:49 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:50 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:07:51 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:11 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:12 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:13 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:14 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:15 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:23 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:27 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:28 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:29 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:31 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:32 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:33 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:34 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:35 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:36 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:12:38 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/linkcomp/bbb.linkcomputerbd.com/admin/count.php on line 5
+[18-Dec-2020 01:30:52 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 43
+[18-Dec-2020 01:30:52 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 45
+[18-Dec-2020 01:33:48 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 43
+[18-Dec-2020 01:33:48 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 45
+[18-Dec-2020 01:37:20 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 43
+[18-Dec-2020 01:37:20 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 45
+[18-Dec-2020 01:38:11 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 43
+[18-Dec-2020 01:38:11 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 45
+[18-Dec-2020 01:39:35 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 40
+[18-Dec-2020 01:39:35 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_product.php on line 42
+[18-Dec-2020 01:42:58 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_ads.php on line 39
+[18-Dec-2020 01:42:58 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_ads.php on line 41
+[18-Dec-2020 01:45:45 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 40
+[18-Dec-2020 01:45:45 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 42
+[18-Dec-2020 01:46:17 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 40
+[18-Dec-2020 01:46:17 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 42
+[18-Dec-2020 01:47:06 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 40
+[18-Dec-2020 01:47:06 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 42
+[18-Dec-2020 01:47:23 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 40
+[18-Dec-2020 01:47:23 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 42
+[18-Dec-2020 01:47:51 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 40
+[18-Dec-2020 01:47:51 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 42
+[18-Dec-2020 01:48:33 asia/dhaka] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, null given in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 40
+[18-Dec-2020 01:48:33 asia/dhaka] PHP Warning:  imagejpeg(../img/product/): failed to open stream: Is a directory in /home/linkcomp/bbb.linkcomputerbd.com/admin/edit_home_page.php on line 42
